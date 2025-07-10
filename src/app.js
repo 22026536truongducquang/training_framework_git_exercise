@@ -1,1 +1,2 @@
-console.log("Xin chào thế giới! Edit master");
+console.log('Welcome to Git edited!');
+
